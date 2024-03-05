@@ -1,4 +1,4 @@
-## Gemini YouTube Notemaker
+## Gemini YouTube Notes Maker
 
 The idea of this project is to build a notes maker app for the user to 
 skip or save time in watching entire YouTube video to understand or take notes for studying
