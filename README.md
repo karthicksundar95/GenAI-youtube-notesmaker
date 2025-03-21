@@ -1,12 +1,9 @@
-
-![gemini youtube](https://github.com/user-attachments/assets/6999728a-7ca7-4539-a914-ccebb2be66bf)
-
 ## Gemini YouTube Notes Maker
 
 The idea of this project is to build a notes maker app for the user to 
 skip or save time in watching entire YouTube video to understand or take notes for studying
 Google's GEMINI ai is used in the application to generate the notes from the YouTube content.
-
+![gemini youtube](https://github.com/user-attachments/assets/6999728a-7ca7-4539-a914-ccebb2be66bf)
 ### Installation:
 
 > Step 1 : Unzip the entire project 
