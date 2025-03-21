@@ -1,4 +1,5 @@
-![gemini youtube](https://github.com/user-attachments/assets/a4f5beb2-56ed-4712-bd67-d6feb354ab43)
+
+![gemini youtube](https://github.com/user-attachments/assets/6999728a-7ca7-4539-a914-ccebb2be66bf)
 
 ## Gemini YouTube Notes Maker
 
