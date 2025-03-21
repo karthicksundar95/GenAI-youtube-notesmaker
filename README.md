@@ -1,3 +1,5 @@
+![gemini youtube](https://github.com/user-attachments/assets/a4f5beb2-56ed-4712-bd67-d6feb354ab43)
+
 ## Gemini YouTube Notes Maker
 
 The idea of this project is to build a notes maker app for the user to 
